@@ -5,6 +5,13 @@ An interactive Excel dashboard analyzing Amazon e-commerce sales data using Pivo
 ## Overview
 Built a comprehensive sales analysis dashboard covering 8 visualizations to track sales performance, category trends, and regional insights from a large e-commerce dataset.
 
+## Screenshots
+![Dashboard Overview](Screenshot%202026-07-09%20111939.png)
+![Sales Breakdown](Screenshot%202026-07-09%20111959.png)
+![Category Analysis](Screenshot%202026-07-09%20112008.png)
+![Regional Trends](Screenshot%202026-07-09%20112018.png)
+![KPI Summary](Screenshot%202026-07-09%20112025.png)
+
 ## Features
 - Dynamic filtering using slicers across category, region, and time period
 - 8 interactive visualizations built with PivotCharts
@@ -14,9 +21,5 @@ Built a comprehensive sales analysis dashboard covering 8 visualizations to trac
 ## Tools Used
 - Microsoft Excel (PivotTables, PivotCharts, Slicers)
 
-## Screenshots
-![Dashboard Overview](screenshot1.png)
-![Category Breakdown](screenshot2.png)
-
 ## File
-- `amazon_sales_dashboard.xlsx` — full interactive dashboard file
+- `amazon-sales-dashboard.xlsx` — full interactive dashboard file
